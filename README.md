@@ -1,1 +1,1 @@
-# betamixture
+# Beta-Mixture
